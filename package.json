@@ -1,0 +1,20 @@
+{
+  "name": "wybor_miast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.16.1",
+    "xml2js": "^0.4.19",
+    "xmldom": "^0.1.27",
+    "xmljson": "^0.2.0",
+    "xpath": "0.0.24"
+  }
+}
